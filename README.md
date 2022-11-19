@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jdonaldson
+- 👋 Hi, I’m Justin Donaldson
 - 👀 I’m interested in machine learning and data processing piplelines
 - 🌱 I’m currently learning serverless
 - 💞️ I’m looking to collaborate on IOT and edge computing
