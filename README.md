@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning how to efficiently control GenAI capabilities
 - 💞️ I’m looking to collaborate on IOT and edge computing
 - 📫 How to reach me : send me a DM on @omgjjd
-- Check out my website at [jjd.io](http://www.jjd.io)
+- 🌐 Check out my website at [jjd.io](http://www.jjd.io)
